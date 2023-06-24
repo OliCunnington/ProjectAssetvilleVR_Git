@@ -2,6 +2,6 @@
 
 UE 5.2
 
-Assetville Town
-VRExpandedPlugin - built on top of demo project
+Assetville Town,
+VRExpandedPlugin - built on top of demo project,
 Ready Player Me
